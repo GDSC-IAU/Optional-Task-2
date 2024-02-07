@@ -1,4 +1,4 @@
-![Alt text](/readme/bannero.png)
+# ![Alt text](/bannero.png)
 # Optional Week 2: Chat application
 
 ## Overview
